@@ -1,0 +1,43 @@
+* {
+    font-family:Raleway;
+    color:black;
+    box-sizing:border-box
+}
+
+a {
+    text-decoration: none;
+}
+
+.body {
+    max-width:1880px;
+    box-sizing: border-box;
+    margin: 10px;
+}
+
+.nav-bar a {
+    float:right;
+    padding:16px 16px;
+    font-size: 19px;
+}
+
+.nav-bar-signup {
+    color:#0065FC;
+    font-weight:bolder;
+}
+.acc {
+    color:#0065FC;
+}
+
+.nav-bar a:hover {
+    background-color:rgb(232, 244, 250);
+    color:black;
+}
+
+.nav-bar a:visited {
+    color:rgb(84, 85, 85);
+}
+
+.nav-bar a:active {
+    color:rgb(153, 153, 229)
+}
+
